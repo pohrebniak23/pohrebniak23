@@ -1,6 +1,6 @@
 ## Hi, I`m Oleksandr 👋
 
-- 🏢 Frontend Developer in 4BILL
+- 🏢 Frontend Developer
 - 👨‍🎓 Odessa Polytechnic National University, Bachelor Degree in Cybersecurity, 2017-2021
 - 💻 Studied frontend development at [Mate Academy](https://mate.academy/)
 - 📍 Now live in Saint-Nazaire, France 🇫🇷
