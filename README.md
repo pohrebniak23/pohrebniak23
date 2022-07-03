@@ -13,6 +13,9 @@
 - BEM, OOP
 - Webpack, GULP
 
+## CV
+* PDF: 
+
 ## 🤝 Contacts
 - Email: pohrebniak23@gmail.com
 - Telegram: https://t.me/yavis23
