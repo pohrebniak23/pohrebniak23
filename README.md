@@ -10,6 +10,7 @@
 - HTML, CSS, SCSS/SASS, LESS
 - JavaScript, TypeScript
 - React, Redux (Redux Toolkit)
+- Jest, Storybook, Loki
 - Git, GitHub, Gitlab
 - BEM, OOP
 - Webpack, GULP
