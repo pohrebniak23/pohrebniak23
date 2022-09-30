@@ -16,7 +16,7 @@
 - Webpack, GULP
 
 ## CV
-* PDF: 
+* PDF: https://github.com/pohrebniak23/pohrebniak23/blob/main/Oleksandr%20Pohrebniak%20CV.pdf
 
 ## 🤝 Contacts
 - Email: pohrebniak23@gmail.com
